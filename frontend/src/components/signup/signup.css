@@ -1,0 +1,30 @@
+#signuppage {
+  background-size: cover;
+  height: 100vh;
+}
+.jumbotron {
+  background: rgb(3, 3, 3);
+  opacity: 0.8;
+  width: 60%;
+}
+
+.signincontrol {
+  padding-left: 10px;
+  padding-top: 25px;
+  width: 100%;
+}
+
+#textInput {
+  width: 100%;
+}
+
+button[type="submit"] {
+  margin-top: 60px;
+  margin-left: 5px;
+  width: 100%;
+}
+
+.legendname {
+  font-size: 30px;
+  font-weight: bold;
+}

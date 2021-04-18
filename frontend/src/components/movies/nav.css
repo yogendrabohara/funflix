@@ -1,0 +1,54 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+  height: 20px;
+  z-index: 1;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_logo {
+  position: fixed;
+  left: 0;
+  object-fit: contain;
+}
+
+.nav_avatar {
+  position: fixed;
+  margin-top: 4rem;
+  right: 20px;
+  width: 50px;
+  object-fit: contain;
+}
+
+.navbar {
+  position: fixed;
+  margin-left: 15rem;
+  color: #000;
+  font-weight: 700;
+  font-size: medium;
+}
+
+.nav_items {
+  text-decoration: none;
+  display: flex;
+  margin: 6rem 0;
+  padding-left: 1rem;
+}
+
+.nav_item {
+  width: 100%;
+  display: inline-flex;
+  margin-right: 2rem;
+  padding-right: 2rem;
+  text-decoration: none;
+  color: black;
+}
+
+.nav_item:hover {
+  transform: all 4s;
+  color: rgb(218, 203, 203);
+}

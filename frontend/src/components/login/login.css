@@ -1,0 +1,40 @@
+.jumbotron {
+  background: rgb(3, 3, 3);
+  opacity: 0.7;
+  width: 40%;
+}
+
+.signincontrol {
+  padding-left: 10px;
+  padding-top: 25px;
+  width: 100%;
+}
+
+#textInput {
+  width: 100%;
+}
+
+button[type="submit"] {
+  margin-top: 10px;
+  margin-left: 5px;
+  /* width: 100%; */
+}
+
+.legendname {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+}
+
+#radioneedhelp {
+  color: #fff;
+  display: inline-flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  padding-right: 50px;
+}
+
+#loginpage {
+  background-size: cover;
+  height: 100vh;
+}

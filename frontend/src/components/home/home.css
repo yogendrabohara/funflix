@@ -1,0 +1,30 @@
+#sectiontwo {
+  background-color: black;
+  width: 100%;
+  color: white;
+  margin: 5px 0px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
+.imagedisplayone {
+  float: left;
+}
+
+.imagedisplaytwo {
+  float: right;
+}
+
+.imagedisplaythree {
+  float: left;
+}
+
+#buttonone {
+  width: 100px;
+  font-weight: 600;
+}
+
+.jumbotron {
+  padding-left: 100px;
+  margin-left: 168px;
+}
